@@ -1,0 +1,2 @@
+http://www.ea.govt.nz/industry/monitoring/cds/centralised-dataset-web-interface/electricity-demand-by-region/ 
+http://www.aemo.com.au/Electricity/Data/Price-and-Demand
